@@ -1,4 +1,4 @@
 ## Example for atomatic fades
 
 
-![fader and buttons](fade_example/fade_example.gif)
+![fader and buttons](fade_example.gif)
