@@ -1,8 +1,8 @@
-## Example for atomatic fades
+## Example for automatic fades
+
+Two buttons, one fader.
 
 ![fader and buttons](preview.gif)
-
-Two buttons, one fader. 
 
 Makes use of 'findByName', 'onReceiveNotify', 'update', 'onValueChanged'.
 
