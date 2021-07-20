@@ -4,4 +4,6 @@
 
 Two buttons, one fader. 
 
-Includes the use of 'findByName', 'onReceiveNotify', 'update', 'onValueChanged'.
+Makes use of 'findByName', 'onReceiveNotify', 'update', 'onValueChanged'.
+
+For further explanation, see the commented scripts on the buttons in the template.
