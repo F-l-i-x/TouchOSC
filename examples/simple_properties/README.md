@@ -5,7 +5,7 @@
 ![properties_localmessages](preview_sp.gif) 
 
 
-[size_color_position_LuaAndLocal.tosc (with Lua):](size_color_position_LuaAndLocal.tosc)
+[size_color_position_LuaAndLocal.tosc :](size_color_position_LuaAndLocal.tosc)
 
 ![setbuttonsizeandposition](preview_sbsap.gif)
 
