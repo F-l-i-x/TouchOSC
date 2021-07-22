@@ -13,7 +13,7 @@
 Bundled local messages must be set to CONSTANT and its conversion to STRING.
 
 Color bundles must be provided in HEX. (RRGGBBAA)
-Frame bundles for local must be 4 values (x;y;w;h) separated by semicolons. 
-Frame bundles for Lua can be packed by the Rectangle() function.
+Frame bundles for local messages must be 4 values (x;y;w;h) separated by semicolons. 
+Frame bundles for Lua can be packed by the Rectangle() function. E.g: Rectangle(300,100,50,50)
 
 ![properties_localmessages](lm_bundle.png)
