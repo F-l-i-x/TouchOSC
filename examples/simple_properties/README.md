@@ -1,11 +1,11 @@
 ## Two examples for setting properties by local messages and lua script
 
-[properties_localmessage.tosc (no Lua)](properties_localmessage.tosc)
+[properties_localmessage.tosc (no Lua):](properties_localmessage.tosc)
 
 ![properties_localmessages](preview_sp.gif) 
 
 
-[set_button_size_and_position.tosc (with Lua)](set_button_size_and_position.tosc)
+[set_button_size_and_position.tosc (with Lua):](set_button_size_and_position.tosc)
 
 ![setbuttonsizeandposition](preview_sbsap.gif)
 
