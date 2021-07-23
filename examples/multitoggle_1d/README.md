@@ -1,11 +1,12 @@
-## Multitoggle examples
+## Multitoggle examples (exclusive mode)
 
 ### ![Multitoggle_Radio_Grid.tosc](Multitoggle_Radio_Grid.tosc)
+
+Dedicated but not restricted to MIDI. All MIDI messages can be set in the scripts individually.
 
 ![multitoggle](preview_2.gif)
 
 
-All MIDI messages can be set in the scripts individually.
 
 
 ### ![Multitoggle_from_MK1.tosc](Multitoggle_from_MK1.tosc)
