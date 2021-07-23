@@ -1,4 +1,7 @@
-## Multitoggle done with individual buttons
+## Multitoggle examples
+
+### ![Multitoggle_Radio_Grid.tosc](Multitoggle_Radio_Grid.tosc)
+
 
 ![multitoggle](preview_1.gif) 
 
