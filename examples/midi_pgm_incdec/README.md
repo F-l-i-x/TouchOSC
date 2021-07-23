@@ -11,7 +11,7 @@ Here you can see how 'tag' is used as a value in MIDI messages.
 
 ![tag_in_PGM.png](tag_in_PGM.png)
 
-Here is another example using tag as a CC value:
+Here is another example using the tag as a CC value:
 
 ![tag_in_CC_value.png](tag_in_CC_value.png)
 
@@ -19,3 +19,5 @@ Here is another example using tag as a CC value:
 
 The same funtionality, but without any local messages and without the 'tag' workaround. Therefore MIDI messages must be sent from script aswell. 
 The first button stores the number as a local variable and does all the job of in/dec and sending the midi messages. The second button just notifys the first to do something. 
+
+![lua_only.png](lua_only.png)
