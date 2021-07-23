@@ -13,7 +13,7 @@ Here you can see how 'tag' is used as a value in MIDI messages.
 
 Here is another example using tag as a CC value:
 
-![tag_in_CC.png](tag_in_CC.png)
+![tag_in_CC_value.png](tag_in_CC_value.png)
 
 ### ![pgm_incdec_lua_only.tosc :](pgm_incdec_lua_only.tosc)
 
