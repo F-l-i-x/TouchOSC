@@ -21,6 +21,6 @@ The grid then interates over all of its childs and prepends the name to the inde
 
 A similar functionality, but done by directly adressing the lables and without any iteration.
 
-![gridlabel](preview_2.gif) ![direct_script](direct_script.png) 
+![gridlabel](preview_2.gif) ![script_direct](script_direct.png) 
 
 
