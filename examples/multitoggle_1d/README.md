@@ -2,6 +2,13 @@
 
 ### ![Multitoggle_Radio_Grid.tosc](Multitoggle_Radio_Grid.tosc)
 
+![multitoggle](preview_2.gif)
+
+
+All MIDI messages can be set in the scripts individually.
+
+
+### ![Multitoggle_from_MK1.tosc](Multitoggle_from_MK1.tosc)
 
 ![multitoggle](preview_1.gif) 
 
