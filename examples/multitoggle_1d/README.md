@@ -2,7 +2,7 @@
 
 ### ![Multitoggle_Radio_Grid.tosc](Multitoggle_Radio_Grid.tosc)
 
-Dedicated but not restricted to MIDI. All MIDI messages can be set in the scripts individually.
+Dedicated but not restricted to MIDI. All MIDI messages can be set in the scripts individually. Shows the use of arrays, indexing and sending MIDI messages.
 
 ![multitoggle](preview_2.gif)
 
