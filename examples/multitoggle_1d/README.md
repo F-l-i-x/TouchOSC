@@ -6,6 +6,9 @@ Dedicated but not restricted to MIDI. All MIDI messages can be set in the script
 
 ![multitoggle](preview_2.gif)
 
+You can see the script interface here:
+
+![script](radio_grid_script.png)
 
 
 
