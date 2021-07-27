@@ -8,7 +8,7 @@ It features a user definable range, a delete for single digits and a clear funct
 
 It can simply be pasted to your project from the ![numpad_basic.tosc :](numpad_basic.tosc) template.
 
-![numpad](numpad.gif) 
+![numpad](pics/numpad.gif) 
 
 ## Interface
 
@@ -17,21 +17,21 @@ It can simply be pasted to your project from the ![numpad_basic.tosc :](numpad_b
 The numpad is a group control and can interface to to other controls trough local messages via its tag property. The tag will be updated when SEND is pressed, as well as the touch value, to trigger the events in the local messages.
 Here is an example from the template where you can see how to use the tag to set a label (and other controls).
 
-![taginterface](pics/tag_interface.png) ![taginterface](tag_interface.gif)
+![taginterface](pics/tag_interface.png) ![taginterface](pics/tag_interface.gif)
 
 
 ### Direct MIDI and OSC messages
 
 Like the local messages, the numpad can also send MIDI or OSC messages directly. The user just needs to use touch as trigger and tag as the source. Here is a shot from the examples in the template.
 
-![directmidiosc](direct_midi_osc.png)
+![directmidiosc](pics/direct_midi_osc.png)
 
 
 ### Hide functionality
 
 When the number display is clicked, the numpad will shrink to one of two possible settings, big or small. This allows for slick integration in other templates without wasting too much space.
 
-![hidesmall](hidesmall.git) ![hidebig](hidebig.gif) 
+![hidesmall](pics/hidesmall.gif) ![hidebig](pics/hidebig.gif) 
 
 The wanted size can be set in the groups script as shown in the next section.
 
@@ -42,7 +42,7 @@ The wanted size can be set in the groups script as shown in the next section.
 The numpads range can be set in the script. It is limited to positive integers at the moment.
 The hideButtonSize defines how small the group should geht when hidden.
 
-![setlimit](setlimitsize.png)
+![setlimit](pics/setlimitsize.png)
 
 
 
