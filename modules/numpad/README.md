@@ -31,7 +31,7 @@ Like the local messages, the numpad can also send MIDI or OSC messages directly.
 
 When the number display is clicked, the numpad will shrink to one of two possible settings, big or small. This allows for slick integration in other templates without wasting too much space.
 
-![hidesmall](pics/hidesmall.gif) ![hidebig](pics/hidebig.gif) 
+![hidesmall](pics/hidesmall.gif) ---------  ![hidebig](pics/hidebig.gif) 
 
 The wanted size can be set in the groups script as shown in the next section.
 
