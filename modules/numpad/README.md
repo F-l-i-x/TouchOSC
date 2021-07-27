@@ -45,6 +45,10 @@ The hideButtonSize defines how small the group should geht when hidden.
 ![setlimit](pics/set_limit_size.png)
 
 
+---
+
+Many thanks to Bryan Day for the inspiration of building such a module and the idea of including th hiding functionality.
+
 
 
 
