@@ -42,7 +42,7 @@ The wanted size can be set in the groups script as shown in the next section.
 The numpads range can be set in the script. It is limited to positive integers at the moment.
 The hideButtonSize defines how small the group should geht when hidden.
 
-![setlimit](pics/setlimitsize.png)
+![setlimit](pics/set_limit_size.png)
 
 
 
