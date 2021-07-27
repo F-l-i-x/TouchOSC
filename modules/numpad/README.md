@@ -17,7 +17,7 @@ It can simply be pasted to your project from the ![numpad_basic.tosc :](numpad_b
 The numpad is a group control and can interface to to other controls trough local messages via its tag property. The tag will be updated when SEND is pressed, as well as the touch value, to trigger the events in the local messages.
 Here is an example from the template where you can see how to use the tag to set a label (and other controls).
 
-![taginterface](tag_interface.png) ![taginterface](tag_interface.gif)
+![taginterface](examples/tag_interface.png) ![taginterface](tag_interface.gif)
 
 
 ### Direct MIDI and OSC messages
