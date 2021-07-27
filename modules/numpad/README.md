@@ -47,7 +47,7 @@ The hideButtonSize defines how small the group should geht when hidden.
 
 ---
 
-Many thanks to Bryan Day for the inspiration of building such a module and the idea of including th hiding functionality.
+Many thanks to Bryan Day for the inspiration of building such a module and the idea of including the hiding functionality.
 
 
 
