@@ -31,9 +31,10 @@ Like the local messages, the numpad can also send MIDI or OSC messages directly.
 
 When the number display is clicked, the numpad will shrink to one of two possible settings, big or small. This allows for slick integration in other templates without wasting too much space.
 
-![hidesmall](pics/hidesmall.gif) ---------  ![hidebig](pics/hidebig.gif) 
+![hidesmall](pics/hidesmall.gif) ---------  ![hidebig](pics/hidebig.gif)
 
-The wanted size can be set in the groups script as shown in the next section.
+The size is stored inside of the control and the last state will persist even when switching from edit to live mode and back.
+
 
 ## Settings
  
@@ -44,10 +45,11 @@ The hideButtonSize defines how small the group should geht when hidden.
 
 ![setlimit](pics/set_limit_size.png)
 
-
+---
+There are some workarounds implemented to prevent current issues of Touch OSC, but i can not guarantee 100% functionality or reliability.
 ---
 
-Many thanks to Bryan Day for the inspiration of building such a module and the idea of including the hiding functionality.
+Many thanks to Bryan Day for the inspiration of building such a module and the idea of including the hiding functionality. Additional thanks to Jörn Lengwenings for the useful feedback.
 
 
 
