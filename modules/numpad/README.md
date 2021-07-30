@@ -46,7 +46,9 @@ The hideButtonSize defines how small the group should geht when hidden.
 ![setlimit](pics/set_limit_size.png)
 
 ---
-There are some workarounds implemented to prevent current issues of Touch OSC, but i can not guarantee 100% functionality or reliability.
+There are some workarounds implemented to prevent current issues of Touch OSC, but i can not guarantee 100% functionality or reliability. 
+This is a first proof of concept prototype for user modules, with a somehow defined interface, but my aim is to extend or change this to a practical, understandable and reliable almost standard, a userbase can agree on and progress with. 
+Using the 'tag' is a very limited workaround, that fits the use case of this numpad, but also is the only practical one to achieve local messages with, so far. Which i think is madatory for the acceptance of basic modules for users with no experience or interest in scripting.
 ---
 
 Many thanks to Bryan Day for the inspiration of building such a module and the idea of including the hiding functionality. Additional thanks to Jörn Lengwenings for the useful feedback.
