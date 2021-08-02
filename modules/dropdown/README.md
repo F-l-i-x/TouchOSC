@@ -2,6 +2,8 @@
 
 ## Overview
 
+A dropdown menu with user settable elments and two different outpumodes. Automatically scales it unfolded size to the number of elements.
+
 It can simply be pasted to your project from the ![dropdown_basic.tosc :](dropdown_basic.tosc) template.
 
 ![numpad](pics/preview.gif) 
@@ -20,10 +22,20 @@ Like the local messages, the dropdown can also send MIDI or OSC messages directl
 
 
 ## Settings
- 
-### Changing the elements
 
-![setelements](pics/set_limit_size.png)
+![setelements](pics/settings.png)
+ 
+### Changing the list elements
+
+Just add elements to the list as you like but keep the format of the syntax: {"element1", "element2", ...}
+
+### Changing the outputmode
+
+The outputmode can either be "number" OR "text". Since the concept is, to store the result in the 'tag' of the group and use it further from there, it does not allow for both. But this could be extended by scripting from the groups script.
+
+### Changing the appearance
+
+Changing the color is done by entering the group and changing the color of all elements. Same for the Fontsize and color. Changing the size needs to adjust the variables and constants in the script of the switch button inside the group.
 
 ---
 There are some workarounds implemented to prevent current issues of Touch OSC, but i can not guarantee 100% functionality or reliability. 
