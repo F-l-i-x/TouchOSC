@@ -6,4 +6,4 @@ Here you can see the local messages (with scaling) for changing fader4 and fader
 
 ![moving faders](preview2.png)
 
-Script example taken from Jörg Lengwenings, syntax inspired by Max Anderson.
+Script example taken from Jörn Lengwenings, syntax inspired by Max Anderson.
