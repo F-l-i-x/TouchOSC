@@ -2,7 +2,7 @@
 
 Can send individual MIDI/OSC messages when a button is turned on, superseded and turned off.
 Can additionally send a MIDI/OSC message when ANY button is turned on or off.
-Messages and target connections can be set in the script.
+Messages and target connections (per message) can be set in the script.
 
 ![multitoggle](pics/Animation.gif) 
 
