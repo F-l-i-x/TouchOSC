@@ -11,7 +11,7 @@ as the OSC messages contain "on / super(seded) / off" which is easier to follow.
 
 Look at the scripts for further explanations.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+The predecessor - a simple multitoggle example - can be found [here](https://github.com/F-l-i-x/TouchOSC/tree/main/examples/multitoggle_1d)
 
 by Jörn Lengwenings
 
