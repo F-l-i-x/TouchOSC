@@ -7,7 +7,7 @@ Messages and target connections (per message) can be set in the script.
 ![multitoggle](pics/Animation.gif) 
 
 To understand which messages are sent in which situation try the OSC version of the multitoggles
-as the OSC messages contain "on / super(seded) / off" which is easier to follow.
+as the OSC messages contain "on / super(seded) / off" which is easier to follow than with cryptic MIDI messages.
 
 Look at the scripts for further explanations.
 
