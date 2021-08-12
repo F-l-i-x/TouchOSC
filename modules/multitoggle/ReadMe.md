@@ -11,5 +11,7 @@ as the OSC messages contain "on / super(seded) / off" which is easier to follow.
 
 Look at the scripts for further explanations.
 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 by Jörn Lengwenings
 
