@@ -6,12 +6,12 @@ The containing modules are an early approach to achieve reusability of grouped t
 
 ## _Dropdown menu scrollable_
 
-![numpad](dropdown_scroll/pics/preview)
+![dropdown_scroll](dropdown_scroll/pics/preview.gif)
 
 
 ## Dropdown menu static
 
-![numpad](dropdown_static/pics/preview)
+![numpad](dropdown_static/pics/preview.gif)
 
 
 
