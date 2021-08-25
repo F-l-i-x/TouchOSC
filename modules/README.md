@@ -2,19 +2,30 @@
 
 ## Overview
 
-The containing modules are an early approach to achieve reusability of grouped tosc control for different application. They use minimal to heavy scripting and can be copied directly into your own project.
+The containing modules are an early approach to achieve reusability of grouped tosc controls for different applications. They use minimal to heavy scripting and can be copied directly into your own project. ENJOY!
 
 ---
+
 ## ![Dropdown menu scrollable](dropdown_scroll/)
 
+A easy to use scrollable dropdown menu with up to 10 elements.
+
 ![dropdown_scroll](dropdown_scroll/pics/preview.gif)
+
 ---
 
-## Dropdown menu static
+## ![Dropdown menu static](dropdown_static/)
 
-![numpad](dropdown_static/pics/preview.gif)
+A easy to use static dropdown menu with up to 10 elements.
+
+![dropdown_static](dropdown_static/pics/preview.gif)
+
+---
+
+## ![Exclusive multitoggles](multitoggle/)
 
 
+![multitoggles](multitoggle/pics/Animation.gif)
 
 ---
 There are some workarounds implemented to prevent current issues of Touch OSC, but i can not guarantee 100% functionality or reliability. 
