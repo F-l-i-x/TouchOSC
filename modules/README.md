@@ -34,7 +34,7 @@ Known from TouchOSC Mk1, here are 4 different implementations of exclusive multi
 
 A foldable numpad to change other controls or to directly send the MIDI or OSC commands of your desire.
 
-![numpad](numpad/pics/numpad.gif) ![numpad](numpad/pics/hidesmall.gif) ![numpad](numpad/pics/hidebig.gif)
+![numpad](numpad/pics/preview3.gif) ![numpad](numpad/pics/hidesmall.gif) ![numpad](numpad/pics/hidebig.gif)
 
 ---
 There are some workarounds implemented to prevent current issues of Touch OSC, but i can not guarantee 100% functionality or reliability. 
