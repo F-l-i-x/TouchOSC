@@ -2,9 +2,10 @@
 
 ## Overview
 
-The containing modules are an early approach to achieve reusability of grouped tosc control for different application. They use less to heavy scripting and can be copied directly into your own project.
+The containing modules are an early approach to achieve reusability of grouped tosc control for different application. They use minimal to heavy scripting and can be copied directly into your own project.
+
 ---
-## _Dropdown menu scrollable_
+## ![Dropdown menu scrollable](dropdown_scroll/)
 
 ![dropdown_scroll](dropdown_scroll/pics/preview.gif)
 ---
