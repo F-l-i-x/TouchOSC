@@ -24,8 +24,17 @@ A easy to use static dropdown menu with up to 10 elements.
 
 ## ![Exclusive multitoggles](multitoggle/)
 
+Known from TouchOSC Mk1, here are 4 different implementations of exclusive multitoggles.
 
 ![multitoggles](multitoggle/pics/Animation.gif)
+
+---
+
+## ![The Numpad](numpad/)
+
+A foldable numpad to change other controls or to directly send the MIDI or OSC commands of your desire.
+
+![numpad](numpad/pics/numpad.gif) ![numpad](numpad/pics/hidesmall.gif) ![numpad](numpad/pics/hidebig.gif)
 
 ---
 There are some workarounds implemented to prevent current issues of Touch OSC, but i can not guarantee 100% functionality or reliability. 
