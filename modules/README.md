@@ -1,18 +1,18 @@
-# A basic scrollable dropdown menu module for reuse in other projects
+# A collection of reusable modules
 
 ## Overview
 
-A scrollable dropdown menu with user settable elements, two different outpumodes and a definable size when unfolded. The scrollbar will automatically adapt to the set size.
+The containing modules are an early approach to achieve reusability of grouped tosc control for different application. They use less to heavy scripting and can be copied directly into your own project.
 
-It can simply be pasted to your project from the ![dropdown_scroll.tosc :](dropdown_scroll.tosc) template.
+## Dropdown menu scrollable
 
-![numpad](pics/preview.gif) 
+![numpad](dropdown_scroll/pics/preview
 
-## Interface
 
-### To other controls
+## Dropdown menu static
 
-The dropdown is a group control and can interface to to other controls trough local messages via its tag property. The tag will be updated when an element is selected after opening the menu, as well as the touch value, to trigger the events in local messages.
+![numpad](dropdown_scroll/pics/pre
+
 
 ### Direct MIDI and OSC messages
 
