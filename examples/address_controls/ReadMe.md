@@ -1,3 +1,6 @@
+
+![moving faders](address_controls.gif)
+
 This template shows you how to address controls with
 'parent' & 'children' to change their properties with Lua.
 
