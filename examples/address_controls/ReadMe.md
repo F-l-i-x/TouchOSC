@@ -1,3 +1,4 @@
+## How to address controls with 'parent' & 'children' in Lua
 
 ![moving faders](address_controls.gif)
 
