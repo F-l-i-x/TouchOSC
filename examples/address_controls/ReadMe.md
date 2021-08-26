@@ -11,3 +11,5 @@ Depending on the pressed button we change the text of
 
 The blue button uses handles to make the code more 
 readable.
+
+Have a look at the code in the buttons (double-click the group and pager to enter them and access the buttons).
