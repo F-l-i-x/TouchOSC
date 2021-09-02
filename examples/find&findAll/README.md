@@ -1,7 +1,5 @@
 ## ![find() and findAll() to create references to single or multiple objects](find&findAll.tosc)
 
-### ![Grid_label.tosc :](Grid_label.tosc) 
-
 This example shows how to use use the different 'find' functions.
 
 ![find](pics/preview.png) 
