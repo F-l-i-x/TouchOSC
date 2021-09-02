@@ -1,26 +1,15 @@
-## Labeling a GRID by script
+## ![find() and findAll() to create references to single or multiple objects](find&findAll.tosc)
 
 ### ![Grid_label.tosc :](Grid_label.tosc) 
 
-This example shows how to use Lua to iterate over the children of a group (in this case a GRID), and how to index and access their properties, or values.
+This example shows how to use use the different 'find' functions.
 
-![gridlabel](pics/preview_1.gif) 
+![find](pics/preview.gif) 
 
+The 'findAll' returns a list of all found elements that can be iterated over.
 
-The Button to trigger the labeling notifies the grid with a given name, that the user can set in the script.
-
-![button](pics/script_button.png)
-
-
-The grid then interates over all of its childs and prepends the name to the index number, thus creating numbered labels.
-
-![gridscript](pics/script_grid.png)
+![button](pics/script.png)
 
 
-### ![SIMPLE_set_GRID_label_texts-3.tosc :](SIMPLE_set_GRID_label_texts-3.tosc) 
-
-A similar functionality, but done by directly adressing the lables and without any iteration.
-
-![gridlabel](pics/preview_2.gif) ![script_direct](pics/script_direct.png) 
-
+find
 
