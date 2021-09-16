@@ -12,6 +12,7 @@ The 'findAll' function returns a list of all found elements that can be iterated
 
 ![script2](pics/script2.png)
 
+
 See also https://hexler.net/touchosc/manual/script-objects-control for further information.
 
 ---
