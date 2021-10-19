@@ -4,11 +4,11 @@
 
 This example shows how to use use the different 'find' functions.
 
-![find](pics/preview.gif) 
+![find](pics/preview_1.gif) 
 
 The 'findAll' returns a list of all found elements that can be iterated over.
 
-![button](pics/script.png)
+![button](pics/script_grid.png)
 
 
 find
