@@ -13,6 +13,8 @@ The 'findAll' function returns a list of all found elements that can be iterated
 ![script2](pics/script2.png)
 
 
+Also take a look at another example about adressing controls by using 'parent.children...' https://github.com/F-l-i-x/TouchOSC/tree/main/examples/address_controls
+
 See also https://hexler.net/touchosc/manual/script-objects-control for further information.
 
 ---
