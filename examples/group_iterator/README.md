@@ -18,5 +18,6 @@ A for loop iterating over the list of group elements setting a color value.
 
 ![group_script](pics/script_2.png)
 
+The same functionality could be achieved using 'findAll(xxx, true)' at https://github.com/F-l-i-x/TouchOSC/tree/main/examples/find%26findAll
 
 ---
