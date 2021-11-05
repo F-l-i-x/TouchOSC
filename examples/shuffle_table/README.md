@@ -1,4 +1,4 @@
-## shuffling the contents of a table
+## ![Shuffling the contents of a table](shuffle_table.tosc)
 
 ### Overview
 This example implements a Fisher-Yates- aka Knuth- aka Durstenfeld-shuffle algorithm to efficiently and randomly shuffle the contants of a table. 
