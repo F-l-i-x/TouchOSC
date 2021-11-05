@@ -22,8 +22,8 @@ Because LUA allows for multiple assignments in the same line but firstly evaluat
 ---
 
 For further information see also: 
-https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
-https://bost.ocks.org/mike/shuffle/
-https://blog.codinghorror.com/the-danger-of-naivete/
+- https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
+- https://bost.ocks.org/mike/shuffle/
+- https://blog.codinghorror.com/the-danger-of-naivete/
 
 ---
