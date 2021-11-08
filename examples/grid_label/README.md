@@ -23,6 +23,8 @@ The grid then interates over all of its childs and prepends the name to the inde
 
 ### ![SIMPLE_set_GRID_label_texts-3.tosc :](SIMPLE_set_GRID_label_texts-3.tosc) 
 
-A similar functionality, but done by directly adressing the lables and without any iteration from the buttons.
+A similar functionality, but done by directly adressing the lables from the buttons and without any iteration.
 
-![gridlabel](pics/preview_2.gif)  ![gridlabel](pics/script_direct.png)  
+![gridlabel](pics/preview_2.gif) 
+
+![gridlabel](pics/script_direct.png)  
