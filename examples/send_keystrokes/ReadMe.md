@@ -5,8 +5,9 @@ But it can still be achieved by sending certain OSC messages to TouchOSC Bridge 
 is still present in Bridge to provide compatibility with MK1.
 This example shows you how. Everything is explained inside the template.
 
-Note: Generic version will probably not work on Mac. There is a separate version for Mac that MIGHT work or not.
-Plaese try the generic version and the Mac version and report back here on Github!
+Note: The generic version will probably not work on Mac. 
+There is a separate version for Mac that MIGHT work or not.
+Please try the generic version and the Mac version and report back here on Github!
 
 ![send_keystrokes](Keystroke_Button.jpg)
 
