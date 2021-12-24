@@ -2,4 +2,6 @@
 
 ![moving faders](many_properties.PNG)
 
+Not all properties go together, e.g. a triangle can't have round edges.
+
 by Jörn Lengwenings
