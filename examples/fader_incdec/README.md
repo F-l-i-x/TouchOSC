@@ -1,4 +1,4 @@
-## Example for increment and decrementing a fader in for 127 MIDI steps
+## Example for incrementing and decrementing a fader in 127 MIDI steps
 
 
 ![incdec](pics/preview.gif)
