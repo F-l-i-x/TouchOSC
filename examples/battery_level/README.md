@@ -10,7 +10,7 @@ The battery level is continuously checked every 5 seconds. Some controls use col
 
 Here is the script of the included the label:
 
-![script](pics/script_1.png) 
+![script](pics/script.png) 
 
 
 ### getBatteryLevel() is currently (TouchOSC v1.1.0.132) not working under Android and will always return 1.0 (full battery)
