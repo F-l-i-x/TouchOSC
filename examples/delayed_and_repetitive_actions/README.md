@@ -1,4 +1,4 @@
-## Example to achieve delayed and repetitive actions ![delayed_and repetitive_actions.tosc](delayed_and repetitive_actions.tosc)
+## ![Example to achieve delayed and repetitive actions](delayed_and repetitive_actions.tosc)
 
 Implements different repetitive and delayed actions via scripting, utilising a timer based on getMillis() and the update() function for non blocking functionality.
 
