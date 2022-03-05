@@ -1,8 +1,42 @@
 ## Labeling a GRID by script
 
-### General hint
+### General concept
+
+GRIDs are basically grouped controls but they feature some already built in functionality like adaptive resizing and an exclusive mode for buttons. 
+The script of a GRID is inherited to its children and will also be executed in their context. See the following ```lua print(self.name)``` to point this behaviour out:
+
+
+![script1](pics/g_01.png)
+
+If you want to implement different fuctionality to different children of the GRID you can use the name as a condition: 
+```lua
+if self.name == "2" then 	-- only executed in control 2
+	self.color.g = 1 		-- set green to 1
+end
+```
+![script1](pics/g_05.png)
+
+Or if you want to have it executed when a particular controls value changes:
+```lua
+function onValueChanged(key)
+  if key == "x" then         		-- only when x changes
+    if self.name == "2" then 		-- only executed in control 2
+      self.color.g = self.values.x	-- change green to controls value
+    end
+  end
+end
+```
+
+![script1](pics/g_06.gif)
+
+...
+
+### GRID with individual labels:
 
 To ensure that a grid will keep the individual values of its childrens (especially labels), make sure to unlock "current" from "default" values as seen in the follwing picture:
+
+
+
 
 ![gridlock](pics/grid_text_lock.png)
 
