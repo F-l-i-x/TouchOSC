@@ -1,9 +1,9 @@
-## Labeling a GRID by script
+## GRID Script Tutorial
 
 ### General concept
 
 GRIDs are basically grouped controls but they feature some already built in functionality like adaptive resizing and an exclusive mode for buttons. 
-The script of a GRID is inherited to its children and will also be executed in their context. See the scripting log when a simple ```print(self.name)``` is put in a GRIDs script:
+The script of a GRID is inherited to its children and will also be executed in their context. See the scripting log when a simple ```print(self.name)``` is put in a GRIDs script and the template is run:
 
 
 ![script1](pics/g_01.png)
@@ -21,7 +21,7 @@ Or if you want to have it executed when a particular controls value changes:
 function onValueChanged(key)
   if key == "x" then         		-- only when x changes
     if self.name == "2" then 		-- only executed in control 2
-	    self.color.g = self.values.x	-- change green to controls value
+      self.color.g = self.values.x	-- change green to controls value
     end
   end
 end
@@ -29,7 +29,7 @@ end
 
 ![script1](pics/g_06.gif)
 
-...
+
 
 ### GRID with individual labels:
 
