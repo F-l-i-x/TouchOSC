@@ -3,7 +3,7 @@
 ### General concept
 
 GRIDs are basically grouped controls but they feature some already built in functionality like adaptive resizing and an exclusive mode for buttons. 
-The script of a GRID is inherited to its children and will also be executed in their context. See the following ```lua print(self.name)``` to point this behaviour out:
+The script of a GRID is inherited to its children and will also be executed in their context. See the scripting log when a simple ```print(self.name)``` is put in a GRIDs script:
 
 
 ![script1](pics/g_01.png)
@@ -11,7 +11,7 @@ The script of a GRID is inherited to its children and will also be executed in t
 If you want to implement different fuctionality to different children of the GRID you can use the name as a condition: 
 ```lua
 if self.name == "2" then 	-- only executed in control 2
-	self.color.g = 1 		-- set green to 1
+  self.color.g = 1 		-- set green to 1
 end
 ```
 ![script1](pics/g_05.png)
@@ -21,7 +21,7 @@ Or if you want to have it executed when a particular controls value changes:
 function onValueChanged(key)
   if key == "x" then         		-- only when x changes
     if self.name == "2" then 		-- only executed in control 2
-      self.color.g = self.values.x	-- change green to controls value
+	    self.color.g = self.values.x	-- change green to controls value
     end
   end
 end
