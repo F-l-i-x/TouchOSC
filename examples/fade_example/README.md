@@ -4,6 +4,14 @@ Two buttons, one fader.
 
 ![fader and buttons](preview.gif)
 
-Makes use of 'findByName', 'onReceiveNotify', 'update', 'onValueChanged'.
 
-For further explanation, see the commented scripts on the buttons in the template.
+The scripts make use of 'findByName()', 'onReceiveNotify()', 'update()', 'onValueChanged()'.
+
+Script of a button:
+![script_button](script1.png)
+
+
+Script in the fader to interrupt the movement when touched:
+![script_fader](script2.png)
+
+
