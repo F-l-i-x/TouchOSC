@@ -1,6 +1,6 @@
 ## TouchOSC examples and modules
 
-Get in touch with us via [Discord](https://discord.io/TouchOSC) and  the [Facebook group](https://www.facebook.com/groups/TouchOSCTemplatesMakers) 
+Get in touch with us via [Discord](https://discord.gg/TXz23QUeQC) and  the [Facebook group](https://www.facebook.com/groups/TouchOSCTemplatesMakers) 
 
 ### ![Examples](/examples)
 
