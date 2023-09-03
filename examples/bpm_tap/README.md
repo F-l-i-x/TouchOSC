@@ -1,4 +1,4 @@
-## Example for using timers to achieve delayed actions
+## BPM counter example/module
 
 Calculate a simple mean BPM values from a ring buffer of meassured times between button presses.
 
