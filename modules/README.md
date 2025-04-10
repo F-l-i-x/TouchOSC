@@ -43,9 +43,7 @@ A foldable numpad to change other controls or to directly send the local, MIDI o
 
 
 ---
-There may be workarounds implemented to prevent current issues of Touch OSC, but i can not guarantee 100% functionality or reliability. 
-These are first proof of concept prototypes for user modules, with a somehow defined interface, but my aim is to extend or change this to a practical, understandable and reliable almost standard, a userbase can agree on and progress with.
----
+
 
 
 
