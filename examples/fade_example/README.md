@@ -1,17 +1,9 @@
 ## Example for automatic fades
 
-Two buttons, one fader.
+Two buttons, one fader. First example fadwes between 0 and 1, second example fades between last stored x value and 0.
 
 ![fader and buttons](pics/preview.gif)
 
 
 The scripts make use of 'findByName()', 'onReceiveNotify()', 'update()', 'onValueChanged()'.
-
-Script of a button:
-![script_button](pics/script1.png)
-
-
-Script in the fader to interrupt the movement when touched:
-![script_fader](pics/script2.png)
-
 
